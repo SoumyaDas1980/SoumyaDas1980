@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SoumyaDas1980
-- 👀 I’m interested in Fullstack Development
+- 👀 I’m interested in Java Fullstack Development 
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on both
 - 📫 Reach me @8777630371
