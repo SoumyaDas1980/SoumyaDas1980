@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java Fullstack Development 
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on both
-- 📫 Reach me @8777630371
+- 📫 Reach me: ssoumya1@gmail.com
 
 <!---
 SoumyaDas1980/SoumyaDas1980 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
